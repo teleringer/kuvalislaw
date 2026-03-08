@@ -560,7 +560,7 @@ export default function Home() {
               <img
                 src="/lci-logo.png"
                 alt="Legal Client Intake"
-                className="h-18 w-auto sm:h-20"
+                className="h-16 w-auto sm:h-18"
               />
             </a>
           </div>
